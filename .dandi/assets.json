@@ -1682,7 +1682,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"ef5c29c5c3c2804984d425afe68d00ef-1092"
+"ef5c29c5c3c2804984d425afe68d00ef-1092",
+"dandi:sha2-256":
+"94decf17fa99f5ca5b02006b6df003272a7af4ec9af27b87e2b1dba1fa83927d"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -1803,7 +1805,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:42.334618+00:00",
+"2021-08-10T06:20:11.168347+00:00",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170714-122034-concat_behavior+ecephys.nwb",
 "size":
@@ -3258,7 +3260,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"ab6a3e0fc72339591942427fee1d8e96-1640"
+"ab6a3e0fc72339591942427fee1d8e96-1640",
+"dandi:sha2-256":
+"9f1584bdc92d8234ce531264cf7336edefe64fee4e27c80a6269efb806272807"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -3391,7 +3395,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:42.664068+00:00",
+"2021-08-10T06:20:21.894003+00:00",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170723-141121-concat_behavior+ecephys.nwb",
 "size":
@@ -5572,7 +5576,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"235457e88f1eb6d13070b116c7879420-1477"
+"235457e88f1eb6d13070b116c7879420-1477",
+"dandi:sha2-256":
+"189f60b200dac828c95940101b9177bc38db20646c9cb18e51e3e3d1f193fc4d"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -5687,7 +5693,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:43.114527+00:00",
+"2021-08-10T06:20:38.841778+00:00",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171205-110831-concat_ecephys.nwb",
 "size":
@@ -6284,7 +6290,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"e89f942e86ef790c2b708a79d5f1d958-1440"
+"e89f942e86ef790c2b708a79d5f1d958-1440",
+"dandi:sha2-256":
+"506d76cd77aeb62de06472ba4845e9737c95418f0118da765140cab8e7c43dd1"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -6417,7 +6425,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:43.283713+00:00",
+"2021-08-10T06:20:34.348010+00:00",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180712-103200-concat_behavior+ecephys.nwb",
 "size":
@@ -7176,7 +7184,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"947639f99105f74cc215c2e831ae6e0c-1847"
+"947639f99105f74cc215c2e831ae6e0c-1847",
+"dandi:sha2-256":
+"2fc04c5e1a662ab01ad05d00031ad26b4525c461d6d18f23f7fea11602302a5f"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -7297,7 +7307,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:43.470993+00:00",
+"2021-08-10T06:20:43.402932+00:00",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180720-110037-concat_behavior+ecephys.nwb",
 "size":
