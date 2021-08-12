@@ -5,8 +5,9 @@
 about: []
 access:
 - contactPoint:
-    email: https://dandiarchive.org/dandiset/000055/draft
+    email: petersen.peter@gmail.com
     schemaKey: ContactPoint
+  schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   approach:
@@ -50,6 +51,7 @@ contributor:
   name: Petersen, Peter
   roleName:
   - dcite:Author
+  - dcite:ContactPerson
   schemaKey: Person
 - affiliation: []
   identifier: 0000-0002-3100-4800
@@ -74,7 +76,8 @@ ethicsApproval: []
 id: DANDI:000059/draft
 identifier: DANDI:000059
 keywords: []
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000059/versions/draft/assets/
 name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
