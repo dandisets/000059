@@ -26,10 +26,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3261512040681
-  numberOfFiles: 54
+  numberOfBytes: 2945469515713
+  numberOfFiles: 50
   numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
@@ -41,8 +39,7 @@ assetsSummary:
   - Position
   - LFP
   - Units
-  - ProcessingModule
-citation: Petersen, Peter; Buzsáki, György (2022) Cooling of Medial Septum Reveals
+citation: Petersen, Peter; Buzsáki, György (2023) Cooling of Medial Septum Reveals
   Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000059/draft
 contributor:
@@ -91,7 +88,7 @@ relatedResource:
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://www.sciencedirect.com/science/article/abs/pii/S0896627320303925
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
