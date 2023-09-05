@@ -26,19 +26,31 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2945469515713
-  numberOfFiles: 50
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 2972621341215
+  numberOfFiles: 61
   numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
     name: Brown rat
     schemaKey: SpeciesType
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
+    name: Rattus norvegicus - Norway rat
+    schemaKey: SpeciesType
   variableMeasured:
   - SpatialSeries
   - Position
   - LFP
   - Units
+  - ProcessingModule
+  - ElectrodeGroup
+  - ElectricalSeries
 citation: Petersen, Peter; Buzsáki, György (2023) Cooling of Medial Septum Reveals
   Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000059/draft
