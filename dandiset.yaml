@@ -20,36 +20,33 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: signal filtering technique
+  - name: surgical technique
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
   - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 4549718960306
-  numberOfFiles: 114
+  - name: signal filtering technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 1948943922920
+  numberOfFiles: 74
   numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
-    name: Brown rat
-    schemaKey: SpeciesType
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - SpatialSeries
-  - Position
-  - LFP
-  - Units
   - ProcessingModule
+  - Position
   - ElectrodeGroup
+  - SpatialSeries
+  - Units
+  - LFP
   - ElectricalSeries
 citation: Petersen, Peter; Buzsáki, György (2023) Cooling of Medial Septum Reveals
   Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
@@ -69,6 +66,39 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+- affiliation: []
+  email: ''
+  identifier: 0000-0002-0829-4790
+  includeInCitation: false
+  name: Cody Baker
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
+- awardNumber: MH122391, MH54671, MH107396, U19 NS107616, U19 NS104590
+  contactPoint: []
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.nih.gov/
+- awardNumber: NeuroNex 1707316
+  contactPoint: []
+  identifier: https://ror.org/021nxhr62
+  includeInCitation: false
+  name: National Science Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.nsf.gov/
+- contactPoint: []
+  identifier: https://ror.org/03hz8wd80
+  includeInCitation: false
+  name: Lundbeck Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2021-02-21T20:41:43.356000+00:00'
 description: 'Hippocampal theta oscillations coordinate neuronal firing to support
   memory and spatial navigation. The medial septum (MS) is critical in theta generation
