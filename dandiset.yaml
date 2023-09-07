@@ -32,8 +32,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3009370516027
-  numberOfFiles: 105
+  numberOfBytes: 3050948969097
+  numberOfFiles: 106
   numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
@@ -50,7 +50,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Petersen, Peter; Buzsáki, György (2023) Cooling of Medial Septum Reveals
   Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
-  set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  set]. DANDI archive. https://dandiarchive.org/dandiset/000059/draft
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -70,7 +70,7 @@ contributor:
   email: ''
   identifier: 0000-0002-0829-4790
   includeInCitation: false
-  name: Cody Baker
+  name: Baker, Cody
   roleName:
   - dcite:DataCurator
   schemaKey: Person
@@ -100,7 +100,6 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2021-02-21T20:41:43.356000+00:00'
-datePublished: '2023-09-06T17:52:23.326194+00:00'
 description: 'Hippocampal theta oscillations coordinate neuronal firing to support
   memory and spatial navigation. The medial septum (MS) is critical in theta generation
   by two possible mechanisms: either a unitary “pacemaker” timing signal is imposed
@@ -113,7 +112,6 @@ description: 'Hippocampal theta oscillations coordinate neuronal firing to suppo
   preserved distance-phase compression of place field sequences within the theta cycle.
   Thus, the septum is critical for sustaining precise theta phase coordination of
   cell assemblies in the hippocampal system, a mechanism needed for spatial memory.'
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000059/draft
 identifier: DANDI:000059
@@ -125,18 +123,6 @@ manifestLocation:
 name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
   Cell Assemblies
 protocol: []
-publishedBy:
-  endDate: '2023-09-06T17:52:23.326194+00:00'
-  id: urn:uuid:68f1756f-5e13-4663-a442-5dc8cd6f1187
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-09-06T17:52:23.326194+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:ec761b92-50bc-4d7b-abc5-e0d9ee41504d
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1016/j.neuron.2020.05.023
   name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
