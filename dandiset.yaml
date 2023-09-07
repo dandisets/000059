@@ -32,8 +32,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2934037566608
-  numberOfFiles: 98
+  numberOfBytes: 2935390229648
+  numberOfFiles: 100
   numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
@@ -49,8 +49,8 @@ assetsSummary:
   - LFP
   - ElectricalSeries
 citation: Petersen, Peter; Buzsáki, György (2023) Cooling of Medial Septum Reveals
-  Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000059/draft
+  Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version 0.230907.2101)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000059/0.230907.2101
 contributor:
 - affiliation: []
   identifier: 0000-0002-2092-4791
@@ -113,14 +113,15 @@ description: 'Hippocampal theta oscillations coordinate neuronal firing to suppo
   preserved distance-phase compression of place field sequences within the theta cycle.
   Thus, the septum is critical for sustaining precise theta phase coordination of
   cell assemblies in the hippocampal system, a mechanism needed for spatial memory.'
+doi: 10.48324/dandi.000059/0.230907.2101
 ethicsApproval: []
-id: DANDI:000059/draft
+id: DANDI:000059/0.230907.2101
 identifier: DANDI:000059
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000059/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000059/0.230907.2101/assets.yaml
 name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
   Cell Assemblies
 protocol: []
@@ -147,6 +148,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000059/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000059/0.230907.2101
+version: 0.230907.2101
 wasGeneratedBy: []
