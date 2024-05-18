@@ -5,7 +5,7 @@
 "blob":
 "4c4f6ff5-199b-4f5a-b241-4e5d6cf8a5ad",
 "created":
-"2023-09-07T20:59:22.482818+00:00",
+"2023-09-07T20:59:22.482818Z",
 "metadata":
 {
 "@context":
@@ -245,7 +245,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.129018+00:00",
+"2023-09-07T21:01:18.129018Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170307-154746-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -257,7 +257,7 @@
 "blob":
 "250f8da6-266a-4da6-9daa-02250122e3b3",
 "created":
-"2023-09-07T02:52:13.072202+00:00",
+"2023-09-07T02:52:13.072202Z",
 "metadata":
 {
 "@context":
@@ -485,7 +485,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.383615+00:00",
+"2023-09-07T21:01:18.383615Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170307-154746-concat_desc-raw_ecephys.nwb",
 "size":
@@ -497,7 +497,7 @@
 "blob":
 "5e98501d-1e51-4ade-8e5d-aa2175f3756c",
 "created":
-"2023-09-05T17:31:04.246457+00:00",
+"2023-09-05T17:31:04.246457Z",
 "metadata":
 {
 "@context":
@@ -725,7 +725,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.714767+00:00",
+"2023-09-07T21:01:17.714767Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170311-180956-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -737,7 +737,7 @@
 "blob":
 "205ff753-3118-4f57-8f2a-19d3b83fd70f",
 "created":
-"2023-09-07T02:45:09.222163+00:00",
+"2023-09-07T02:45:09.222163Z",
 "metadata":
 {
 "@context":
@@ -965,7 +965,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.163813+00:00",
+"2023-09-07T21:01:18.163813Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170311-180956-concat_desc-raw_ecephys.nwb",
 "size":
@@ -977,7 +977,7 @@
 "blob":
 "26a73839-bdd3-4c7d-bb01-e27ed8b85088",
 "created":
-"2023-09-05T17:31:06.093251+00:00",
+"2023-09-05T17:31:06.093251Z",
 "metadata":
 {
 "@context":
@@ -1205,7 +1205,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.745065+00:00",
+"2023-09-07T21:01:17.745065Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170313-122631-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -1217,7 +1217,7 @@
 "blob":
 "383ff271-3f27-4e7f-b3f1-619dcd9a02cc",
 "created":
-"2023-09-07T02:37:53.399737+00:00",
+"2023-09-07T02:37:53.399737Z",
 "metadata":
 {
 "@context":
@@ -1445,7 +1445,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.157079+00:00",
+"2023-09-07T21:01:18.157079Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170313-122631-concat_desc-raw_ecephys.nwb",
 "size":
@@ -1457,7 +1457,7 @@
 "blob":
 "fe030e67-60c5-453f-bb82-511c808edbae",
 "created":
-"2023-09-05T17:31:08.010457+00:00",
+"2023-09-05T17:31:08.010457Z",
 "metadata":
 {
 "@context":
@@ -1685,7 +1685,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.725540+00:00",
+"2023-09-07T21:01:17.725540Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170314-163038_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -1697,7 +1697,7 @@
 "blob":
 "791b77d0-d3cf-4418-a206-3fc32f2d49ec",
 "created":
-"2023-09-07T02:37:50.349490+00:00",
+"2023-09-07T02:37:50.349490Z",
 "metadata":
 {
 "@context":
@@ -1925,7 +1925,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.999536+00:00",
+"2023-09-07T21:01:17.999536Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170314-163038_desc-raw_ecephys.nwb",
 "size":
@@ -1937,7 +1937,7 @@
 "blob":
 "0932c245-ac35-4dfd-be76-20ae328f43a4",
 "created":
-"2023-09-05T17:31:14.771160+00:00",
+"2023-09-05T17:31:14.771160Z",
 "metadata":
 {
 "@context":
@@ -2177,7 +2177,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.753596+00:00",
+"2023-09-07T21:01:17.753596Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170317-153237-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -2189,7 +2189,7 @@
 "blob":
 "ef516442-7328-44a4-bee2-cf8758077a46",
 "created":
-"2023-09-07T02:45:08.819463+00:00",
+"2023-09-07T02:45:08.819463Z",
 "metadata":
 {
 "@context":
@@ -2417,7 +2417,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.006288+00:00",
+"2023-09-07T21:01:18.006288Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170317-153237-concat_desc-raw_ecephys.nwb",
 "size":
@@ -2429,7 +2429,7 @@
 "blob":
 "dacf2486-4b1c-4b7f-b3a6-43453670e436",
 "created":
-"2023-09-05T17:35:58.083555+00:00",
+"2023-09-05T17:35:58.083555Z",
 "metadata":
 {
 "@context":
@@ -2669,7 +2669,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.734646+00:00",
+"2023-09-07T21:01:17.734646Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170319-180352-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -2681,7 +2681,7 @@
 "blob":
 "b858faf5-5923-4d2b-88d6-62674a1eed74",
 "created":
-"2023-09-07T02:45:11.232542+00:00",
+"2023-09-07T02:45:11.232542Z",
 "metadata":
 {
 "@context":
@@ -2909,7 +2909,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.267207+00:00",
+"2023-09-07T21:01:18.267207Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170319-180352-concat_desc-raw_ecephys.nwb",
 "size":
@@ -2921,7 +2921,7 @@
 "blob":
 "fd9600d5-3623-48fb-b84b-796b7e00b9cf",
 "created":
-"2023-09-05T17:56:41.443356+00:00",
+"2023-09-05T17:56:41.443356Z",
 "metadata":
 {
 "@context":
@@ -3161,7 +3161,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.775567+00:00",
+"2023-09-07T21:01:17.775567Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170320-212321-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -3173,7 +3173,7 @@
 "blob":
 "9abcadd5-719c-4f55-b3ac-1b6f5e6a19ab",
 "created":
-"2023-09-07T02:51:02.065967+00:00",
+"2023-09-07T02:51:02.065967Z",
 "metadata":
 {
 "@context":
@@ -3401,7 +3401,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.336143+00:00",
+"2023-09-07T21:01:18.336143Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170320-212321-concat_desc-raw_ecephys.nwb",
 "size":
@@ -3413,7 +3413,7 @@
 "blob":
 "f4f37e2f-5b44-4ab9-a8a0-9fbdc218b357",
 "created":
-"2023-09-05T17:56:57.303410+00:00",
+"2023-09-05T17:56:57.303410Z",
 "metadata":
 {
 "@context":
@@ -3653,7 +3653,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.790972+00:00",
+"2023-09-07T21:01:17.790972Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170321-164406-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -3665,7 +3665,7 @@
 "blob":
 "9c8f1af0-3804-43e8-b210-7a1d37cf0f19",
 "created":
-"2023-09-07T03:31:01.115658+00:00",
+"2023-09-07T03:31:01.115658Z",
 "metadata":
 {
 "@context":
@@ -3893,7 +3893,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.012433+00:00",
+"2023-09-07T21:01:18.012433Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170321-164406-concat_desc-raw_ecephys.nwb",
 "size":
@@ -3905,7 +3905,7 @@
 "blob":
 "2355bdc4-394a-4a9e-bbd7-fbfcc4d9ec7b",
 "created":
-"2023-09-05T17:57:35.249278+00:00",
+"2023-09-05T17:57:35.249278Z",
 "metadata":
 {
 "@context":
@@ -4145,7 +4145,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.783316+00:00",
+"2023-09-07T21:01:17.783316Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170323-173246_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -4157,7 +4157,7 @@
 "blob":
 "d2533a4c-e5b5-4c04-b4c4-6f98f7b73a7b",
 "created":
-"2023-09-07T02:49:04.032987+00:00",
+"2023-09-07T02:49:04.032987Z",
 "metadata":
 {
 "@context":
@@ -4385,7 +4385,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.329455+00:00",
+"2023-09-07T21:01:18.329455Z",
 "path":
 "sub-MS10/sub-MS10_ses-Peter-MS10-170323-173246_desc-raw_ecephys.nwb",
 "size":
@@ -4397,7 +4397,7 @@
 "blob":
 "f1dc3ec3-5573-42ce-8d48-2f907da7002f",
 "created":
-"2023-09-05T17:58:37.922730+00:00",
+"2023-09-05T17:58:37.922730Z",
 "metadata":
 {
 "@context":
@@ -4625,7 +4625,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.798807+00:00",
+"2023-09-07T21:01:17.798807Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170713-093400-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -4637,7 +4637,7 @@
 "blob":
 "f10ba4e1-490d-48aa-aaf5-0ca657c62bca",
 "created":
-"2023-09-07T18:03:52.696742+00:00",
+"2023-09-07T18:03:52.696742Z",
 "metadata":
 {
 "@context":
@@ -4865,7 +4865,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.122321+00:00",
+"2023-09-07T21:01:18.122321Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170713-093400-concat_desc-raw_ecephys.nwb",
 "size":
@@ -4877,7 +4877,7 @@
 "blob":
 "8ebb847a-634b-49b6-bf33-244a49f928fa",
 "created":
-"2023-09-05T18:03:35.447572+00:00",
+"2023-09-05T18:03:35.447572Z",
 "metadata":
 {
 "@context":
@@ -5105,7 +5105,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.823389+00:00",
+"2023-09-07T21:01:17.823389Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170714-122034-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -5117,7 +5117,7 @@
 "blob":
 "83d4280d-3e3d-435c-9d01-a0857f8c432d",
 "created":
-"2023-09-07T03:31:03.455082+00:00",
+"2023-09-07T03:31:03.455082Z",
 "metadata":
 {
 "@context":
@@ -5345,7 +5345,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.277840+00:00",
+"2023-09-07T21:01:18.277840Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170714-122034-concat_desc-raw_ecephys.nwb",
 "size":
@@ -5357,7 +5357,7 @@
 "blob":
 "a1913b51-ab11-42af-a5ca-7b346d59ef37",
 "created":
-"2023-09-05T18:04:49.694056+00:00",
+"2023-09-05T18:04:49.694056Z",
 "metadata":
 {
 "@context":
@@ -5597,7 +5597,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.830444+00:00",
+"2023-09-07T21:01:17.830444Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170716-172307-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -5609,7 +5609,7 @@
 "blob":
 "1a31f19d-027f-44df-bae9-45d82d25c60a",
 "created":
-"2023-09-07T03:31:01.966823+00:00",
+"2023-09-07T03:31:01.966823Z",
 "metadata":
 {
 "@context":
@@ -5837,7 +5837,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.170589+00:00",
+"2023-09-07T21:01:18.170589Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170716-172307-concat_desc-raw_ecephys.nwb",
 "size":
@@ -5849,7 +5849,7 @@
 "blob":
 "9f238be5-e88c-4eb0-a559-03f1372aaf52",
 "created":
-"2023-09-05T18:53:27.435446+00:00",
+"2023-09-05T18:53:27.435446Z",
 "metadata":
 {
 "@context":
@@ -6077,7 +6077,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.767465+00:00",
+"2023-09-07T21:01:17.767465Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170717-111614-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -6089,7 +6089,7 @@
 "blob":
 "e8d6f6dd-2e8d-43c7-9692-5436b7b8662a",
 "created":
-"2023-09-07T05:33:35.973582+00:00",
+"2023-09-07T05:33:35.973582Z",
 "metadata":
 {
 "@context":
@@ -6317,7 +6317,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.017951+00:00",
+"2023-09-07T21:01:18.017951Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170717-111614-concat_desc-raw_ecephys.nwb",
 "size":
@@ -6329,7 +6329,7 @@
 "blob":
 "026be632-5ce6-4996-8221-ef87d2344192",
 "created":
-"2023-09-05T19:43:53.448480+00:00",
+"2023-09-05T19:43:53.448480Z",
 "metadata":
 {
 "@context":
@@ -6557,7 +6557,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.808273+00:00",
+"2023-09-07T21:01:17.808273Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170718-101720-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -6569,7 +6569,7 @@
 "blob":
 "62c0cf6f-ff7e-4282-86e0-e5a0b5f97240",
 "created":
-"2023-09-07T05:37:56.241197+00:00",
+"2023-09-07T05:37:56.241197Z",
 "metadata":
 {
 "@context":
@@ -6797,7 +6797,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.177601+00:00",
+"2023-09-07T21:01:18.177601Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170718-101720-concat_desc-raw_ecephys.nwb",
 "size":
@@ -6809,7 +6809,7 @@
 "blob":
 "927c68bb-82c2-4cdb-bde8-af836d0d1664",
 "created":
-"2023-09-05T19:45:11.741482+00:00",
+"2023-09-05T19:45:11.741482Z",
 "metadata":
 {
 "@context":
@@ -7049,7 +7049,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.815424+00:00",
+"2023-09-07T21:01:17.815424Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170719-095305-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -7061,7 +7061,7 @@
 "blob":
 "d9a81b30-9a1c-4b9c-b738-5709bafca2ac",
 "created":
-"2023-09-07T07:05:11.010148+00:00",
+"2023-09-07T07:05:11.010148Z",
 "metadata":
 {
 "@context":
@@ -7289,7 +7289,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.393560+00:00",
+"2023-09-07T21:01:18.393560Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170719-095305-concat_desc-raw_ecephys.nwb",
 "size":
@@ -7301,7 +7301,7 @@
 "blob":
 "b2f74561-6df5-4929-bfe2-36d1a504b61e",
 "created":
-"2023-09-05T20:36:43.360467+00:00",
+"2023-09-05T20:36:43.360467Z",
 "metadata":
 {
 "@context":
@@ -7529,7 +7529,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.837976+00:00",
+"2023-09-07T21:01:17.837976Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170720-093528-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -7541,7 +7541,7 @@
 "blob":
 "f1c0e5ce-f913-45ae-9709-0a8f7d99ce8b",
 "created":
-"2023-09-07T06:35:20.193482+00:00",
+"2023-09-07T06:35:20.193482Z",
 "metadata":
 {
 "@context":
@@ -7769,7 +7769,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.284913+00:00",
+"2023-09-07T21:01:18.284913Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170720-093528-concat_desc-raw_ecephys.nwb",
 "size":
@@ -7781,7 +7781,7 @@
 "blob":
 "8ea05cea-0159-4b78-9058-30de1348e7c7",
 "created":
-"2023-09-05T21:18:40.916101+00:00",
+"2023-09-05T21:18:40.916101Z",
 "metadata":
 {
 "@context":
@@ -8021,7 +8021,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.851221+00:00",
+"2023-09-07T21:01:17.851221Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170723-141121-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -8033,7 +8033,7 @@
 "blob":
 "83d8b529-ee25-4091-8ac8-d8ee65ee069b",
 "created":
-"2023-09-07T07:05:10.781776+00:00",
+"2023-09-07T07:05:10.781776Z",
 "metadata":
 {
 "@context":
@@ -8261,7 +8261,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.343994+00:00",
+"2023-09-07T21:01:18.343994Z",
 "path":
 "sub-MS12/sub-MS12_ses-Peter-MS12-170723-141121-concat_desc-raw_ecephys.nwb",
 "size":
@@ -8273,7 +8273,7 @@
 "blob":
 "6fe9961b-7b05-49ff-80fc-964c13f5efdf",
 "created":
-"2023-09-05T22:06:23.638443+00:00",
+"2023-09-05T22:06:23.638443Z",
 "metadata":
 {
 "@context":
@@ -8501,7 +8501,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.858400+00:00",
+"2023-09-07T21:01:17.858400Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171127-133330-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -8513,7 +8513,7 @@
 "blob":
 "ab6e0621-aa6a-469d-8d11-c9b8ee51b91e",
 "created":
-"2023-09-07T17:51:33.367325+00:00",
+"2023-09-07T17:51:33.367325Z",
 "metadata":
 {
 "@context":
@@ -8741,7 +8741,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.112743+00:00",
+"2023-09-07T21:01:18.112743Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171127-133330-concat_desc-raw_ecephys.nwb",
 "size":
@@ -8753,7 +8753,7 @@
 "blob":
 "d6edc032-a51e-4890-a621-06e168fa788f",
 "created":
-"2023-09-07T20:59:24.512063+00:00",
+"2023-09-07T20:59:24.512063Z",
 "metadata":
 {
 "@context":
@@ -8993,7 +8993,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.247214+00:00",
+"2023-09-07T21:01:18.247214Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171128-113924-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -9005,7 +9005,7 @@
 "blob":
 "902d4c93-ff2f-4157-a1de-2350bdd62251",
 "created":
-"2023-09-07T06:35:17.815936+00:00",
+"2023-09-07T06:35:17.815936Z",
 "metadata":
 {
 "@context":
@@ -9233,7 +9233,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.184139+00:00",
+"2023-09-07T21:01:18.184139Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171128-113924-concat_desc-raw_ecephys.nwb",
 "size":
@@ -9245,7 +9245,7 @@
 "blob":
 "f6e4c267-08c0-44d2-831d-95730c4a53f3",
 "created":
-"2023-09-05T22:06:44.131914+00:00",
+"2023-09-05T22:06:44.131914Z",
 "metadata":
 {
 "@context":
@@ -9473,7 +9473,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.844721+00:00",
+"2023-09-07T21:01:17.844721Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171129-105507-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -9485,7 +9485,7 @@
 "blob":
 "ee33e3ad-1744-47b2-81fd-f1eae873950f",
 "created":
-"2023-09-07T07:12:31.323390+00:00",
+"2023-09-07T07:12:31.323390Z",
 "metadata":
 {
 "@context":
@@ -9713,7 +9713,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.414987+00:00",
+"2023-09-07T21:01:18.414987Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171129-105507-concat_desc-raw_ecephys.nwb",
 "size":
@@ -9725,7 +9725,7 @@
 "blob":
 "73cd7ff5-c9ee-4146-99bb-2236259a53bf",
 "created":
-"2023-09-05T22:34:01.771448+00:00",
+"2023-09-05T22:34:01.771448Z",
 "metadata":
 {
 "@context":
@@ -9953,7 +9953,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.906677+00:00",
+"2023-09-07T21:01:17.906677Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171130-121758-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -9965,7 +9965,7 @@
 "blob":
 "e6a3fa00-a5c9-4a84-a2dd-00ee5394a79e",
 "created":
-"2023-09-07T07:05:26.128493+00:00",
+"2023-09-07T07:05:26.128493Z",
 "metadata":
 {
 "@context":
@@ -10193,7 +10193,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.349989+00:00",
+"2023-09-07T21:01:18.349989Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171130-121758-concat_desc-raw_ecephys.nwb",
 "size":
@@ -10205,7 +10205,7 @@
 "blob":
 "824ef138-56b9-4abc-bb3f-233d623c9f3e",
 "created":
-"2023-09-05T23:44:40.327444+00:00",
+"2023-09-05T23:44:40.327444Z",
 "metadata":
 {
 "@context":
@@ -10445,7 +10445,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.869438+00:00",
+"2023-09-07T21:01:17.869438Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171201-130527-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -10457,7 +10457,7 @@
 "blob":
 "5cab3743-f283-4efb-84d4-bd4f55806a91",
 "created":
-"2023-09-07T07:23:53.509358+00:00",
+"2023-09-07T07:23:53.509358Z",
 "metadata":
 {
 "@context":
@@ -10685,7 +10685,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.423949+00:00",
+"2023-09-07T21:01:18.423949Z",
 "path":
 "sub-MS13/sub-MS13_ses-Peter-MS13-171201-130527-concat_desc-raw_ecephys.nwb",
 "size":
@@ -10697,7 +10697,7 @@
 "blob":
 "626ac469-e53b-4c83-a5db-8baf977dd62c",
 "created":
-"2023-09-07T17:31:34.210594+00:00",
+"2023-09-07T17:31:34.210594Z",
 "metadata":
 {
 "@context":
@@ -10937,7 +10937,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.105171+00:00",
+"2023-09-07T21:01:18.105171Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180621-141817-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -10949,7 +10949,7 @@
 "blob":
 "228582f2-f10d-4dba-b3ab-994b36414b5a",
 "created":
-"2023-09-07T17:37:34.174509+00:00",
+"2023-09-07T17:37:34.174509Z",
 "metadata":
 {
 "@context":
@@ -11177,7 +11177,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.309472+00:00",
+"2023-09-07T21:01:18.309472Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180621-141817-concat_desc-raw_ecephys.nwb",
 "size":
@@ -11189,7 +11189,7 @@
 "blob":
 "cfe5f01b-91dc-44e9-9fdd-13d72a9aac50",
 "created":
-"2023-09-05T23:59:46.792571+00:00",
+"2023-09-05T23:59:46.792571Z",
 "metadata":
 {
 "@context":
@@ -11417,7 +11417,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.885483+00:00",
+"2023-09-07T21:01:17.885483Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180622-174411_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -11429,7 +11429,7 @@
 "blob":
 "d3421c1c-f2f5-43f9-b1a0-036c50ce28f7",
 "created":
-"2023-09-07T07:11:49.454152+00:00",
+"2023-09-07T07:11:49.454152Z",
 "metadata":
 {
 "@context":
@@ -11657,7 +11657,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.400255+00:00",
+"2023-09-07T21:01:18.400255Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180622-174411_desc-raw_ecephys.nwb",
 "size":
@@ -11669,7 +11669,7 @@
 "blob":
 "9780970a-f84e-4456-9364-c0e716791b78",
 "created":
-"2023-09-06T00:00:04.919582+00:00",
+"2023-09-06T00:00:04.919582Z",
 "metadata":
 {
 "@context":
@@ -11897,7 +11897,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.912361+00:00",
+"2023-09-07T21:01:17.912361Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180623-170717-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -11909,7 +11909,7 @@
 "blob":
 "9b3c7dea-20be-46b9-b8f6-4f6408b7304e",
 "created":
-"2023-09-07T07:12:31.703499+00:00",
+"2023-09-07T07:12:31.703499Z",
 "metadata":
 {
 "@context":
@@ -12137,7 +12137,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.407749+00:00",
+"2023-09-07T21:01:18.407749Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180623-170717-concat_desc-raw_ecephys.nwb",
 "size":
@@ -12149,7 +12149,7 @@
 "blob":
 "cd11ae52-a90d-48cc-bc16-c90113fd094b",
 "created":
-"2023-09-06T00:14:11.589433+00:00",
+"2023-09-06T00:14:11.589433Z",
 "metadata":
 {
 "@context":
@@ -12389,7 +12389,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.930752+00:00",
+"2023-09-07T21:01:17.930752Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180625-153927-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -12401,7 +12401,7 @@
 "blob":
 "253d3e61-6e51-4e39-9144-b6ea10a209ec",
 "created":
-"2023-09-07T07:39:48.479626+00:00",
+"2023-09-07T07:39:48.479626Z",
 "metadata":
 {
 "@context":
@@ -12629,7 +12629,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.429796+00:00",
+"2023-09-07T21:01:18.429796Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180625-153927-concat_desc-raw_ecephys.nwb",
 "size":
@@ -12641,7 +12641,7 @@
 "blob":
 "45e20453-213b-4dd2-ab89-fcaa92b2f891",
 "created":
-"2023-09-06T00:15:36.560896+00:00",
+"2023-09-06T00:15:36.560896Z",
 "metadata":
 {
 "@context":
@@ -12881,7 +12881,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.953179+00:00",
+"2023-09-07T21:01:17.953179Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180627-143449-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -12893,7 +12893,7 @@
 "blob":
 "e07e1794-843e-461b-b939-6190baa2648e",
 "created":
-"2023-09-07T07:39:48.778307+00:00",
+"2023-09-07T07:39:48.778307Z",
 "metadata":
 {
 "@context":
@@ -13121,7 +13121,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.435414+00:00",
+"2023-09-07T21:01:18.435414Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180627-143449-concat_desc-raw_ecephys.nwb",
 "size":
@@ -13133,7 +13133,7 @@
 "blob":
 "fa79ee85-df07-403b-8c30-89bd2f2d7684",
 "created":
-"2023-09-06T00:16:52.844711+00:00",
+"2023-09-06T00:16:52.844711Z",
 "metadata":
 {
 "@context":
@@ -13373,7 +13373,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.936631+00:00",
+"2023-09-07T21:01:17.936631Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180628-155921-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -13385,7 +13385,7 @@
 "blob":
 "5d403911-4ffd-4513-967d-17e6da8d54a9",
 "created":
-"2023-09-07T07:39:48.810393+00:00",
+"2023-09-07T07:39:48.810393Z",
 "metadata":
 {
 "@context":
@@ -13613,7 +13613,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.441790+00:00",
+"2023-09-07T21:01:18.441790Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180628-155921-concat_desc-raw_ecephys.nwb",
 "size":
@@ -13625,7 +13625,7 @@
 "blob":
 "9f80d963-413e-4c17-a18b-30aff27e0e56",
 "created":
-"2023-09-06T00:20:24.438646+00:00",
+"2023-09-06T00:20:24.438646Z",
 "metadata":
 {
 "@context":
@@ -13865,7 +13865,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.965693+00:00",
+"2023-09-07T21:01:17.965693Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180629-110332-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -13877,7 +13877,7 @@
 "blob":
 "df167a83-b911-4a37-9476-931978a7b1de",
 "created":
-"2023-09-07T07:50:01.806165+00:00",
+"2023-09-07T07:50:01.806165Z",
 "metadata":
 {
 "@context":
@@ -14105,7 +14105,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.447480+00:00",
+"2023-09-07T21:01:18.447480Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180629-110332-concat_desc-raw_ecephys.nwb",
 "size":
@@ -14117,7 +14117,7 @@
 "blob":
 "7a3bfeb7-c38b-472a-a9a3-4b0f687d4513",
 "created":
-"2023-09-06T01:01:31.449705+00:00",
+"2023-09-06T01:01:31.449705Z",
 "metadata":
 {
 "@context":
@@ -14345,7 +14345,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.893496+00:00",
+"2023-09-07T21:01:17.893496Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180711-112927-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -14357,7 +14357,7 @@
 "blob":
 "dce5d434-78dc-43cd-bef8-156f8bb9b1cf",
 "created":
-"2023-09-07T07:58:40.744822+00:00",
+"2023-09-07T07:58:40.744822Z",
 "metadata":
 {
 "@context":
@@ -14585,7 +14585,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.459860+00:00",
+"2023-09-07T21:01:18.459860Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180711-112927-concat_desc-raw_ecephys.nwb",
 "size":
@@ -14597,7 +14597,7 @@
 "blob":
 "f2ff6b52-63da-46a8-ac45-c70e792835a9",
 "created":
-"2023-09-06T01:13:55.919812+00:00",
+"2023-09-06T01:13:55.919812Z",
 "metadata":
 {
 "@context":
@@ -14837,7 +14837,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.924891+00:00",
+"2023-09-07T21:01:17.924891Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180712-103200-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -14849,7 +14849,7 @@
 "blob":
 "89c78f21-ecd7-4d46-8302-807918752122",
 "created":
-"2023-09-07T09:06:42.313558+00:00",
+"2023-09-07T09:06:42.313558Z",
 "metadata":
 {
 "@context":
@@ -15077,7 +15077,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.356420+00:00",
+"2023-09-07T21:01:18.356420Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180712-103200-concat_desc-raw_ecephys.nwb",
 "size":
@@ -15089,7 +15089,7 @@
 "blob":
 "50312181-7b3f-4456-bf12-3aa891b9ab31",
 "created":
-"2023-09-06T01:15:03.784289+00:00",
+"2023-09-06T01:15:03.784289Z",
 "metadata":
 {
 "@context":
@@ -15329,7 +15329,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.942502+00:00",
+"2023-09-07T21:01:17.942502Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180719-155941-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -15341,7 +15341,7 @@
 "blob":
 "0f2900da-5932-4830-995a-eb872e6d27bb",
 "created":
-"2023-09-07T07:50:03.851057+00:00",
+"2023-09-07T07:50:03.851057Z",
 "metadata":
 {
 "@context":
@@ -15569,7 +15569,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.454361+00:00",
+"2023-09-07T21:01:18.454361Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180719-155941-concat_desc-raw_ecephys.nwb",
 "size":
@@ -15581,7 +15581,7 @@
 "blob":
 "624f3f7c-f5c9-4fa7-93df-ccfd89bc1f71",
 "created":
-"2023-09-06T01:30:28.764819+00:00",
+"2023-09-06T01:30:28.764819Z",
 "metadata":
 {
 "@context":
@@ -15809,7 +15809,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.976848+00:00",
+"2023-09-07T21:01:17.976848Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180720-110037-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -15821,7 +15821,7 @@
 "blob":
 "6bd7c527-694a-42d7-a103-2d5d3f0dada6",
 "created":
-"2023-09-07T08:54:49.736392+00:00",
+"2023-09-07T08:54:49.736392Z",
 "metadata":
 {
 "@context":
@@ -16049,7 +16049,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.190748+00:00",
+"2023-09-07T21:01:18.190748Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180720-110037-concat_desc-raw_ecephys.nwb",
 "size":
@@ -16061,7 +16061,7 @@
 "blob":
 "b5ea197f-24ef-47f9-b0cb-68895c14eb60",
 "created":
-"2023-09-06T01:44:01.187276+00:00",
+"2023-09-06T01:44:01.187276Z",
 "metadata":
 {
 "@context":
@@ -16289,7 +16289,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.982158+00:00",
+"2023-09-07T21:01:17.982158Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180724-144402-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -16301,7 +16301,7 @@
 "blob":
 "a25a1ffd-772d-4372-996c-0dd4306ee1ff",
 "created":
-"2023-09-07T09:38:15.950628+00:00",
+"2023-09-07T09:38:15.950628Z",
 "metadata":
 {
 "@context":
@@ -16529,7 +16529,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.204524+00:00",
+"2023-09-07T21:01:18.204524Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180724-144402-concat_desc-raw_ecephys.nwb",
 "size":
@@ -16541,7 +16541,7 @@
 "blob":
 "31d16181-f039-470e-a86b-bdf54ec368be",
 "created":
-"2023-09-06T02:12:05.615666+00:00",
+"2023-09-06T02:12:05.615666Z",
 "metadata":
 {
 "@context":
@@ -16769,7 +16769,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.899974+00:00",
+"2023-09-07T21:01:17.899974Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180730-120605-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -16781,7 +16781,7 @@
 "blob":
 "8ad62c0a-67ce-496b-b686-5bbd4c0e200d",
 "created":
-"2023-09-07T08:54:49.744603+00:00",
+"2023-09-07T08:54:49.744603Z",
 "metadata":
 {
 "@context":
@@ -17009,7 +17009,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.291418+00:00",
+"2023-09-07T21:01:18.291418Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180730-120605-concat_desc-raw_ecephys.nwb",
 "size":
@@ -17021,7 +17021,7 @@
 "blob":
 "814812b9-ca35-4519-8f76-5236010e260b",
 "created":
-"2023-09-06T03:48:18.136535+00:00",
+"2023-09-06T03:48:18.136535Z",
 "metadata":
 {
 "@context":
@@ -17249,7 +17249,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.918431+00:00",
+"2023-09-07T21:01:17.918431Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180802-120147-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -17261,7 +17261,7 @@
 "blob":
 "696be293-a827-417d-ac5b-65c0f45c9b59",
 "created":
-"2023-09-07T08:54:49.719031+00:00",
+"2023-09-07T08:54:49.719031Z",
 "metadata":
 {
 "@context":
@@ -17489,7 +17489,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.023482+00:00",
+"2023-09-07T21:01:18.023482Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180802-120147-concat_desc-raw_ecephys.nwb",
 "size":
@@ -17501,7 +17501,7 @@
 "blob":
 "22bca70e-9bd0-4c99-91b7-55a9af77ad32",
 "created":
-"2023-09-06T04:09:39.343858+00:00",
+"2023-09-06T04:09:39.343858Z",
 "metadata":
 {
 "@context":
@@ -17729,7 +17729,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.959638+00:00",
+"2023-09-07T21:01:17.959638Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180803-142301-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -17741,7 +17741,7 @@
 "blob":
 "17085815-72c7-43b9-964c-2a1b36887f8d",
 "created":
-"2023-09-07T09:31:52.308117+00:00",
+"2023-09-07T09:31:52.308117Z",
 "metadata":
 {
 "@context":
@@ -17969,7 +17969,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.035803+00:00",
+"2023-09-07T21:01:18.035803Z",
 "path":
 "sub-MS21/sub-MS21_ses-Peter-MS21-180803-142301-concat_desc-raw_ecephys.nwb",
 "size":
@@ -17981,7 +17981,7 @@
 "blob":
 "af41b25a-510c-4bad-abe3-d3fb6aec76b0",
 "created":
-"2023-09-07T17:31:46.416834+00:00",
+"2023-09-07T17:31:46.416834Z",
 "metadata":
 {
 "@context":
@@ -18221,7 +18221,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.239411+00:00",
+"2023-09-07T21:01:18.239411Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180621-131028-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -18233,7 +18233,7 @@
 "blob":
 "f1abcc4a-d217-426e-9321-b494b475d90f",
 "created":
-"2023-09-07T17:39:15.377335+00:00",
+"2023-09-07T17:39:15.377335Z",
 "metadata":
 {
 "@context":
@@ -18461,7 +18461,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.362843+00:00",
+"2023-09-07T21:01:18.362843Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180621-131028-concat_desc-raw_ecephys.nwb",
 "size":
@@ -18473,7 +18473,7 @@
 "blob":
 "f33cd72a-573b-42e5-ba83-c0877d0653db",
 "created":
-"2023-09-06T04:10:02.020142+00:00",
+"2023-09-06T04:10:02.020142Z",
 "metadata":
 {
 "@context":
@@ -18701,7 +18701,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.971252+00:00",
+"2023-09-07T21:01:17.971252Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180622-115734-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -18713,7 +18713,7 @@
 "blob":
 "0260e299-b3ba-475a-9d70-0d032b62d706",
 "created":
-"2023-09-07T09:49:33.952892+00:00",
+"2023-09-07T09:49:33.952892Z",
 "metadata":
 {
 "@context":
@@ -18941,7 +18941,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.302994+00:00",
+"2023-09-07T21:01:18.302994Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180622-115734-concat_desc-raw_ecephys.nwb",
 "size":
@@ -18953,7 +18953,7 @@
 "blob":
 "bb8b2647-87b7-457d-9773-6a1d787da18b",
 "created":
-"2023-09-06T04:51:20.943424+00:00",
+"2023-09-06T04:51:20.943424Z",
 "metadata":
 {
 "@context":
@@ -19181,7 +19181,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.988113+00:00",
+"2023-09-07T21:01:17.988113Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180623-170141-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -19193,7 +19193,7 @@
 "blob":
 "c5d3da88-953f-445b-9a49-b5603dfebee7",
 "created":
-"2023-09-07T09:19:42.875730+00:00",
+"2023-09-07T09:19:42.875730Z",
 "metadata":
 {
 "@context":
@@ -19421,7 +19421,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.029842+00:00",
+"2023-09-07T21:01:18.029842Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180623-170141-concat_desc-raw_ecephys.nwb",
 "size":
@@ -19433,7 +19433,7 @@
 "blob":
 "644ef38e-92d8-43f8-b62d-faaf7ee63efa",
 "created":
-"2023-09-06T04:51:43.572755+00:00",
+"2023-09-06T04:51:43.572755Z",
 "metadata":
 {
 "@context":
@@ -19661,7 +19661,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.136103+00:00",
+"2023-09-07T21:01:18.136103Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180625-162932-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -19673,7 +19673,7 @@
 "blob":
 "a96ac67c-659f-45cd-a92a-e51242525598",
 "created":
-"2023-09-07T09:22:30.721671+00:00",
+"2023-09-07T09:22:30.721671Z",
 "metadata":
 {
 "@context":
@@ -19901,7 +19901,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.197408+00:00",
+"2023-09-07T21:01:18.197408Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180625-162932-concat_desc-raw_ecephys.nwb",
 "size":
@@ -19913,7 +19913,7 @@
 "blob":
 "162b32d1-bc02-4666-925d-bf27caf137f6",
 "created":
-"2023-09-06T05:01:42.760730+00:00",
+"2023-09-06T05:01:42.760730Z",
 "metadata":
 {
 "@context":
@@ -20141,7 +20141,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:17.993670+00:00",
+"2023-09-07T21:01:17.993670Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180626-110916-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -20153,7 +20153,7 @@
 "blob":
 "cdef0eeb-53c4-4249-a051-10748116156f",
 "created":
-"2023-09-07T10:51:32.688401+00:00",
+"2023-09-07T10:51:32.688401Z",
 "metadata":
 {
 "@context":
@@ -20381,7 +20381,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.224501+00:00",
+"2023-09-07T21:01:18.224501Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180626-110916-concat_desc-raw_ecephys.nwb",
 "size":
@@ -20393,7 +20393,7 @@
 "blob":
 "7df05846-2a36-467b-8b82-7e1dc6006e19",
 "created":
-"2023-09-06T05:02:01.900054+00:00",
+"2023-09-06T05:02:01.900054Z",
 "metadata":
 {
 "@context":
@@ -20621,7 +20621,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.143187+00:00",
+"2023-09-07T21:01:18.143187Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180627-114856-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -20633,7 +20633,7 @@
 "blob":
 "dcabf603-5563-4c53-be40-2ca888fe14dc",
 "created":
-"2023-09-07T09:59:07.533526+00:00",
+"2023-09-07T09:59:07.533526Z",
 "metadata":
 {
 "@context":
@@ -20861,7 +20861,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.041676+00:00",
+"2023-09-07T21:01:18.041676Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180627-114856-concat_desc-raw_ecephys.nwb",
 "size":
@@ -20873,7 +20873,7 @@
 "blob":
 "4d4da28c-15c9-4cd7-8aea-f09771f70c98",
 "created":
-"2023-09-06T05:30:25.311657+00:00",
+"2023-09-06T05:30:25.311657Z",
 "metadata":
 {
 "@context":
@@ -21113,7 +21113,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.254368+00:00",
+"2023-09-07T21:01:18.254368Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180628-120341-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -21125,7 +21125,7 @@
 "blob":
 "dac527a8-a892-482d-a4b9-c80bdc8b6787",
 "created":
-"2023-09-07T10:30:37.859307+00:00",
+"2023-09-07T10:30:37.859307Z",
 "metadata":
 {
 "@context":
@@ -21353,7 +21353,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.217874+00:00",
+"2023-09-07T21:01:18.217874Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180628-120341-concat_desc-raw_ecephys.nwb",
 "size":
@@ -21365,7 +21365,7 @@
 "blob":
 "075b32be-1c44-4e2f-8a91-3eeb182af587",
 "created":
-"2023-09-06T05:32:15.206241+00:00",
+"2023-09-06T05:32:15.206241Z",
 "metadata":
 {
 "@context":
@@ -21605,7 +21605,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.316572+00:00",
+"2023-09-07T21:01:18.316572Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180629-110319-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -21617,7 +21617,7 @@
 "blob":
 "5ff17f89-382d-400b-8501-028f4c49ea51",
 "created":
-"2023-09-07T10:17:30.881754+00:00",
+"2023-09-07T10:17:30.881754Z",
 "metadata":
 {
 "@context":
@@ -21845,7 +21845,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.047643+00:00",
+"2023-09-07T21:01:18.047643Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180629-110319-concat_desc-raw_ecephys.nwb",
 "size":
@@ -21857,7 +21857,7 @@
 "blob":
 "85ba21dd-bafb-4523-a697-6b6342346e29",
 "created":
-"2023-09-06T18:03:38.759355+00:00",
+"2023-09-06T18:03:38.759355Z",
 "metadata":
 {
 "@context":
@@ -22097,7 +22097,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.370726+00:00",
+"2023-09-07T21:01:18.370726Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180711-112912-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -22109,7 +22109,7 @@
 "blob":
 "fe2b1d5b-bb35-401a-ba6a-4b866c7770ac",
 "created":
-"2023-09-07T10:30:33.460395+00:00",
+"2023-09-07T10:30:33.460395Z",
 "metadata":
 {
 "@context":
@@ -22337,7 +22337,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.062390+00:00",
+"2023-09-07T21:01:18.062390Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180711-112912-concat_desc-raw_ecephys.nwb",
 "size":
@@ -22349,7 +22349,7 @@
 "blob":
 "44902c36-0f24-46d8-ac4e-93180bf3e3b8",
 "created":
-"2023-09-06T18:37:14.985191+00:00",
+"2023-09-06T18:37:14.985191Z",
 "metadata":
 {
 "@context":
@@ -22577,7 +22577,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.149547+00:00",
+"2023-09-07T21:01:18.149547Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180712-102504-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -22589,7 +22589,7 @@
 "blob":
 "13e4340f-2af6-435c-a721-a3558a426a9c",
 "created":
-"2023-09-07T10:51:32.149018+00:00",
+"2023-09-07T10:51:32.149018Z",
 "metadata":
 {
 "@context":
@@ -22817,7 +22817,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.069161+00:00",
+"2023-09-07T21:01:18.069161Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180712-102504-concat_desc-raw_ecephys.nwb",
 "size":
@@ -22829,7 +22829,7 @@
 "blob":
 "70f91c46-5ed4-4577-9fec-8d616ddd1364",
 "created":
-"2023-09-06T19:36:19.669166+00:00",
+"2023-09-06T19:36:19.669166Z",
 "metadata":
 {
 "@context":
@@ -23069,7 +23069,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.260895+00:00",
+"2023-09-07T21:01:18.260895Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180719-122813-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -23081,7 +23081,7 @@
 "blob":
 "b2b32870-688e-4308-96d4-188e6cd04dbc",
 "created":
-"2023-09-07T10:57:14.805928+00:00",
+"2023-09-07T10:57:14.805928Z",
 "metadata":
 {
 "@context":
@@ -23309,7 +23309,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.232760+00:00",
+"2023-09-07T21:01:18.232760Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180719-122813-concat_desc-raw_ecephys.nwb",
 "size":
@@ -23321,7 +23321,7 @@
 "blob":
 "dd264957-d469-4a1c-b303-ebb3a6a06be3",
 "created":
-"2023-09-06T19:39:48.018222+00:00",
+"2023-09-06T19:39:48.018222Z",
 "metadata":
 {
 "@context":
@@ -23561,7 +23561,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.323121+00:00",
+"2023-09-07T21:01:18.323121Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180720-110055-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -23573,7 +23573,7 @@
 "blob":
 "a46f44e0-73bf-4952-a96e-1bb12441e848",
 "created":
-"2023-09-07T11:11:47.727230+00:00",
+"2023-09-07T11:11:47.727230Z",
 "metadata":
 {
 "@context":
@@ -23801,7 +23801,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.083036+00:00",
+"2023-09-07T21:01:18.083036Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180720-110055-concat_desc-raw_ecephys.nwb",
 "size":
@@ -23813,7 +23813,7 @@
 "blob":
 "3f522c0c-bd7a-4d2a-a351-37b63c0a0ae0",
 "created":
-"2023-09-06T19:40:07.741552+00:00",
+"2023-09-06T19:40:07.741552Z",
 "metadata":
 {
 "@context":
@@ -24041,7 +24041,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.377139+00:00",
+"2023-09-07T21:01:18.377139Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180724-144421-concat_desc-processed_behavior+ecephys.nwb",
 "size":
@@ -24053,7 +24053,7 @@
 "blob":
 "0206436f-7c54-453a-9bc0-05220663494c",
 "created":
-"2023-09-07T11:17:08.068576+00:00",
+"2023-09-07T11:17:08.068576Z",
 "metadata":
 {
 "@context":
@@ -24281,7 +24281,7 @@
 ]
 },
 "modified":
-"2023-09-07T21:01:18.090087+00:00",
+"2023-09-07T21:01:18.090087Z",
 "path":
 "sub-MS22/sub-MS22_ses-Peter-MS22-180724-144421-concat_desc-raw_ecephys.nwb",
 "size":
