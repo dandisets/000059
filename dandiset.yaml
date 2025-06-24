@@ -49,11 +49,18 @@ assetsSummary:
   - Units
   - LFP
   - ElectricalSeries
-citation: Petersen, Peter; Buzsáki, György (2024) Cooling of Medial Septum Reveals
-  Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000059/draft
+citation: Petersen, Peter; Buzsáki, György (2025) Cooling of Medial Septum Reveals
+  Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version 0.250624.0444)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000059/0.250624.0444
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/005dvqh91
+    name: New York University Langone Medical Center
+    schemaKey: Affiliation
+  - identifier: https://ror.org/0190ak572
+    name: New York University
+    schemaKey: Affiliation
+  email: petersen.peter@gmail.com
   identifier: 0000-0002-2092-4791
   includeInCitation: true
   name: Petersen, Peter
@@ -61,19 +68,18 @@ contributor:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/005dvqh91
+    name: New York University Langone Medical Center
+    schemaKey: Affiliation
+  - identifier: https://ror.org/0190ak572
+    name: New York University
+    schemaKey: Affiliation
   identifier: 0000-0002-3100-4800
   includeInCitation: true
   name: Buzsáki, György
   roleName:
   - dcite:Author
-  schemaKey: Person
-- affiliation: []
-  identifier: 0000-0002-0829-4790
-  includeInCitation: false
-  name: Baker, Cody
-  roleName:
-  - dcite:DataCurator
   schemaKey: Person
 - awardNumber: NeuroNex 1707316
   contactPoint: []
@@ -100,7 +106,15 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: http://www.nih.gov/
+- affiliation: []
+  identifier: 0000-0002-0829-4790
+  includeInCitation: false
+  name: Baker, Cody
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
 dateCreated: '2021-02-21T20:41:43.356000+00:00'
+datePublished: '2025-06-24T04:44:25.294809+00:00'
 description: 'Hippocampal theta oscillations coordinate neuronal firing to support
   memory and spatial navigation. The medial septum (MS) is critical in theta generation
   by two possible mechanisms: either a unitary “pacemaker” timing signal is imposed
@@ -113,17 +127,28 @@ description: 'Hippocampal theta oscillations coordinate neuronal firing to suppo
   preserved distance-phase compression of place field sequences within the theta cycle.
   Thus, the septum is critical for sustaining precise theta phase coordination of
   cell assemblies in the hippocampal system, a mechanism needed for spatial memory.'
+doi: 10.48324/dandi.000059/0.250624.0444
 ethicsApproval: []
-id: DANDI:000059/draft
+id: DANDI:000059/0.250624.0444
 identifier: DANDI:000059
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000059/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000059/0.250624.0444/assets.yaml
 name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
   Cell Assemblies
-protocol: []
+publishedBy:
+  endDate: '2025-06-24T04:44:25.294809+00:00'
+  id: urn:uuid:1e18b82c-5989-472a-b2f5-d4defcb8a161
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-06-24T04:44:25.294809+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:0be4b837-7e7f-442a-bacd-be919d852b9d
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1016/j.neuron.2020.05.023
   name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
@@ -135,7 +160,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
-studyTarget: []
-url: https://dandiarchive.org/dandiset/000059/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000059/0.250624.0444
+version: 0.250624.0444
 wasGeneratedBy: []
