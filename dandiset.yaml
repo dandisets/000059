@@ -112,7 +112,10 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: http://www.nih.gov/
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
+    schemaKey: Affiliation
   identifier: 0000-0002-0829-4790
   includeInCitation: false
   name: Baker, Cody
