@@ -27,20 +27,20 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: surgical technique
+  - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  - name: signal filtering technique
+  - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2848133173578
-  numberOfFiles: 53
+  numberOfBytes: 2599367455161
+  numberOfFiles: 47
   numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
@@ -48,13 +48,13 @@ assetsSummary:
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - ProcessingModule
-  - Position
-  - ElectrodeGroup
-  - SpatialSeries
-  - Units
   - LFP
+  - Position
   - ElectricalSeries
+  - SpatialSeries
+  - ElectrodeGroup
+  - Units
+  - ProcessingModule
 citation: Petersen, Peter; Buzsáki, György (2026) Cooling of Medial Septum Reveals
   Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
   set]. DANDI Archive. https://dandiarchive.org/dandiset/000059/draft
