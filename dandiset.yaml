@@ -56,8 +56,8 @@ assetsSummary:
   - Units
   - ProcessingModule
 citation: Petersen, Peter; Buzsáki, György (2026) Cooling of Medial Septum Reveals
-  Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/000059/draft
+  Theta Phase Lag Coordination of Hippocampal Cell Assemblies (Version 0.261115.0311)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000059/0.261115.0311
 contributor:
 - affiliation:
   - identifier: https://ror.org/005dvqh91
@@ -151,6 +151,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2021-02-21T20:41:43.356000+00:00'
+datePublished: '2026-11-15T03:11:55.670315+00:00'
 description: 'Hippocampal theta oscillations coordinate neuronal firing to support
   memory and spatial navigation. The medial septum (MS) is critical in theta generation
   by two possible mechanisms: either a unitary “pacemaker” timing signal is imposed
@@ -163,8 +164,9 @@ description: 'Hippocampal theta oscillations coordinate neuronal firing to suppo
   preserved distance-phase compression of place field sequences within the theta cycle.
   Thus, the septum is critical for sustaining precise theta phase coordination of
   cell assemblies in the hippocampal system, a mechanism needed for spatial memory.'
+doi: 10.48324/dandi.000059/0.261115.0311
 ethicsApproval: []
-id: DANDI:000059/draft
+id: DANDI:000059/0.261115.0311
 identifier: DANDI:000059
 keywords:
 - Theta oscillations
@@ -177,9 +179,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000059/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000059/0.261115.0311/assets.yaml
 name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
   Cell Assemblies
+publishedBy:
+  endDate: '2026-11-15T03:11:55.670315+00:00'
+  id: urn:uuid:f3cf6f54-0896-4baa-9f1d-e03a64eb0634
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-11-15T03:11:55.670315+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6790cb71-7227-4645-a4e4-b1000b88cb9b
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1016/j.neuron.2020.05.023
   name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
@@ -189,9 +203,56 @@ relatedResource:
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.sciencedirect.com/science/article/abs/pii/S0896627320303925
+releaseNotes: "## Changes since version 0.250624.0444\n\nAll 50 sessions were re-converted
+  from the lab's source files with a new NeuroConv conversion ([catalystneuro/buzsaki-lab-to-nwb](https://github.com/catalystneuro/buzsaki-lab-to-nwb),
+  PRs [#93](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/93), [#106](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/106)
+  to [#108](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/108), [#111](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/111),
+  [#113](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/113), [#116](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/116)
+  and [#117](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/117)), and one
+  session was added. The conversion fixes problems found by a reproduction attempt
+  ([issue #78](https://github.com/catalystneuro/buzsaki-lab-to-nwb/issues/78)).\n\n
+  **One file per session.** Each session's earlier `desc-raw` and `desc-processed`
+  files are combined into one file, `sub-<rat>_ses-<session>_behavior+ecephys.nwb`
+  (51 files, against 100 for 50 sessions before). The earlier files remain in the
+  earlier versions.\n\n**New session**\n\n- **MS12-170715**, a session on the lab's
+  share with spike sorting, cell metrics, trials and sleep scoring that was not in
+  the dandiset. Its wide-band signal comes from the lab's `.dat`; the share has no
+  `.lfp` for it, so it has no LFP.\n\n**Corrections**\n\n- **Electrode groups.** The
+  LFP and wide-band columns are in `.dat` channel order, but the earlier electrodes
+  table gave rows 0 to 9 to shank 1, 10 to 19 to shank 2 and so on, so the electrode
+  groups were wrong in every file. Electrodes now follow the lab's `.xml` groups (anatomical
+  groups where the spike groups leave channels out), with locations from session.mat.\n
+  - **Trial times** are at the correct samples: the earlier fix used MATLAB's 1-based
+  indices as 0-based, so trial times were one sample late (8.3 ms in MS21 and MS22,
+  25 ms in MS10).\n- **Cooling states** use the lab's labels (Pre, Cooling, Post).
+  Code 0 is \"transition (excluded)\", with its windows described, not \"Cooling off\"\
+  .\n- **Temperature.** The measured septal probe trace (`temperature.mat`, 20 Hz)
+  is `MeasuredTemperature` where it exists. Sessions with no measurement (MS10's,
+  and MS12-170715) have the lab's modelled curve as `ModelledTemperature`, described
+  as a model.\n- **Units.** Every Phy cluster, with a `quality` column. MS10's labels
+  were not read before (12 good, 28 unsorted, 355 noise). The units description says
+  that the curated set is the \"good\" units, which are the CellExplorer cells. Where
+  a session was sorted more than once, the sorting the lab's analysis used is taken.\n
+  - **LFP and wide-band** are the earlier files' data, stored as int16 at the session's
+  gain (0.195 µV per step). Three sessions' earlier files hold only some channels
+  (MS10-170314: 47 of 64; MS13-171129 and MS13-171130: 119 of 128); their series cover
+  those channels.\n\n**Additions**\n\n- **Linearized position** (the earlier conversion's
+  field check missed it).\n- **Tables:** `cooling` (no-cooling, cooling and the transition
+  gaps), `epochs` from session.mat, and `sleep_states` where the lab's `SleepState.states.mat`
+  exists, with HED tags (WAKE: Awake; NREM: Asleep; REM: Asleep and the SCORE library's
+  Sleep-stage-REM).\n- **Units columns:** `cell_type`, `region`, `cell_metrics_id`
+  and the largest-waveform channel for the CellExplorer cells.\n- **Ontology terms**
+  (HERD) for species, sex, CA1 and the cell types.\n- Signals chunked for streaming.\n
+  \n**Known gaps**\n\n- The 2018-07-19 sessions are labelled as cooled, but their
+  measured temperature is flat. The lab's labels are kept, and the descriptions say
+  so.\n- The left/right trial label is the trial's side arm, not the direction run,
+  so it has no HED tag.\n- Not in the dandiset, as before: MS12-170712, MS13-171204
+  and 171205 (the share has their `.dat` and trials but no spike sorting), and MS13-171206
+  (trials only, no recording).\n- Not converted: MS10's 120 Hz OptiTrack Take files,
+  place fields and ripples."
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
-url: https://dandiarchive.org/dandiset/000059/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000059/0.261115.0311
+version: 0.261115.0311
 wasGeneratedBy: []
